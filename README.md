@@ -43,7 +43,8 @@ music-skill/
         ├── SKILL.md                 # 核心：agent 执行指令（工作流、原则、边界）
         └── references/
             ├── style-prompts.md     # 曲风提示词模板（Suno 五要素 + 流派模板 + 歌词自检）
-            └── storyboard-templates.md  # 分镜表模板 + 首尾帧/视频提示词写法
+            ├── storyboard-templates.md  # 分镜表模板 + 首尾帧/视频提示词写法
+            └── quality-checklist.md     # 交付前质检四查清单（情绪锚定/可执行/文字/节奏）
 ```
 
 ## 工作方式
