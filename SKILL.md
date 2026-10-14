@@ -1,7 +1,7 @@
 ---
 name: music-skill
-description: "从情绪描述到完整歌曲：生成歌词、曲风提示词、MV概念、分镜脚本、首尾帧与视频提示词。触发词：'启动原创音乐'、'原创音乐'、相关自然语言请求。"
-version: 1.1.0
+description: "从情绪描述到完整歌曲：生成歌词、曲风提示词、MV概念、分镜脚本、首尾帧与视频提示词。触发词：'启动原创音乐'、'原创音乐'、'给我写首歌'、'帮我写歌词'、'帮我做个MV'，及任何想把情绪或故事变成音乐的自然语言请求。"
+version: 1.3.0
 allowed-tools: Bash, Read, Write, Edit
 compatibility: Windows/macOS/Linux. Requires WorkBuddy.
 metadata:
